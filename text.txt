@@ -1,3 +1,4 @@
 name: palepu gowri sankar 
 no: 37
 suc: 2358250094
+mail: anuradhapalepu1@gmail.com
